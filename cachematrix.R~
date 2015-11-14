@@ -1,12 +1,6 @@
 #
 # This is my solution to the second programmigs assigment Coursera's Programming
 # in R course.
-#
-# The first function makeCacheMatrix creates a special matrix, that can cache its inverse.
-#  
-# The second function cacheSolve calculates a matrix (created with makeCacheMatrix) inverse 
-# only if this inverse have not been previouly calculated. 
-#
 # Ivette C. Martinez
 #
 
